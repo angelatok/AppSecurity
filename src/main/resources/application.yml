@@ -1,0 +1,12 @@
+server:
+  port: 5000
+  
+spring:
+  data:
+    mongodb:
+      database: authen
+      host: localhost
+      port: 27017
+      
+
+      
